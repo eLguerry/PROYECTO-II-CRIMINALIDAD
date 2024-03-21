@@ -1,0 +1,6 @@
+el fichero csv recoge todas las incidencias reportadas. En las
+variables encontramos principalmente el número de incidentes, el número de delitos, el número de víctimas y número
+de delincuentes conocidos. Cada fila corresponde a un tipo distinto de delito. Remarcar que una incidencia se puede
+definir como uno o más delitos cometidos por el mismo delincuente o grupo de delincuentes actuando
+concertadamente, en el mismo momento y lugar. Se puede estudiar la relación entre número de delitos y número de
+víctimas.
